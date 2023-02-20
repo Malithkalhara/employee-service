@@ -1,0 +1,81 @@
+Logs
+logs
+*.log
+
+Dependency directories
+node_modules
+jspm_packages
+
+Distribution files
+dist
+build
+
+Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+IDE and editor files
+.vscode
+.idea
+*.suo
+*.sln
+*.user
+*.suo
+*.cache
+*.project
+*.pydevproject
+*.settings
+
+Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+Cache and temp files
+*.swp
+*~
+*.bak
+*.cache
+*.tmp
+
+Build files
+build/
+dist/
+.idea/
+*.js.map
+*.js.gz
+
+Test result files
+coverage
+.nyc_output
+
+Misc
+.DS_Store
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+.knit-cache
+
+Compiled output
+*.min.js
+*.min.css
+*.gif
+*.jpg
+*.jpeg
+*.png
+*.svg
+*.woff
+*.woff2
+*.ttf
+
+Security files
+security.txt
+.ads.txt
+
+Logs
+logs
+*.log
